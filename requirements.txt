@@ -1,0 +1,6 @@
+enum34==1.1.10
+mediapipe==0.8.3
+numpy==1.19.3
+opencv-python==4.5.1.48
+pycaw==20181226
+yapf==0.31.0
