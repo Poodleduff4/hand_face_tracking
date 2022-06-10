@@ -8,8 +8,8 @@ import copy
 class handDetector():
     def __init__(self,
                  mode=False,
-                 maxHands=2,
-                 detectionCon=0.5,
+                 maxHands=7,
+                 detectionCon=0.7,
                  trackingCon=0.5):
         self.mode = mode
         self.maxHands = maxHands
