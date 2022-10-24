@@ -14,4 +14,4 @@ while True:
     img = face_detector.find_face_mesh(img)
 
     cv2.imshow('face and hands', img)
-    cv2.waitKey(5)
+    cv2.waitKey(2)
